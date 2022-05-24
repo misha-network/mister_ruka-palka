@@ -6,7 +6,7 @@ Example game on GiveAGame
 **Write** in *your terminal*: `pip install giveagame` and `pip install pyinstaller`
 
 ## Build game
-**Run** `build.bat`
+**Run** `build.bat`. \
 *After running* in **project folder** *created new folder* with *name `dist`*
 
 ## Run game
